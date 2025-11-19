@@ -1,7 +1,7 @@
 ---
 author: 
 layout: default
-date: 
+date:
 ---
 
 ## ISA abstract model in a nutshell
