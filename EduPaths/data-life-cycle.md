@@ -8,37 +8,37 @@ author:
 ---
 
 ---
-src: '../bricks/data-life-cycle/002-data-life-cycle'
+src: '../bricks/data-life-cycle/002-data-life-cycle.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/003-data-life-cycle-plan'
+src: '../bricks/data-life-cycle/003-data-life-cycle-plan.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/004-data-life-cycle-collect'
+src: '../bricks/data-life-cycle/004-data-life-cycle-collect.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/005-data-life-cycle-process'
+src: '../bricks/data-life-cycle/005-data-life-cycle-process.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/006-data-life-cycle-analyse'
+src: '../bricks/data-life-cycle/006-data-life-cycle-analyse.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/007-data-life-cycle-preserve'
+src: '../bricks/data-life-cycle/007-data-life-cycle-preserve.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/008-data-life-cycle-share'
+src: '../bricks/data-life-cycle/008-data-life-cycle-share.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/009-data-life-cycle-reuse'
+src: '../bricks/data-life-cycle/009-data-life-cycle-reuse.md'
 ---
  
 ---
-src: '../bricks/data-life-cycle/010-data-life-cycle'
+src: '../bricks/data-life-cycle/010-data-life-cycle.md'
 ---
