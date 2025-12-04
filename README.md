@@ -1,8 +1,8 @@
 # EduBricks and EduPaths
 
 This repository holds 
-  1. single-markdown slides, with typically one aspect or one figure per slide as examples for **EduBricks**
-  2. compilations of those slides as examples for **EduPaths**
+  1. single-markdown slides, with typically one aspect or one figure per slide as examples for [**EduBricks**](EduBricks)
+  2. compilations of those slides as examples for [**EduPaths**](EduPaths)
 
 ## Idea
 
