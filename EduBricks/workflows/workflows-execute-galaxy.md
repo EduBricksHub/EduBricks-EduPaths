@@ -1,0 +1,42 @@
+---
+title: workflows-execute-galaxy
+author: Dominik Brilhaus
+license: CC-BY 4.0
+date: 2025-12-12
+layout: default
+---
+
+# Galaxy
+
+
+<div class="absolute top-20 left-230">
+  <img src="https://usegalaxy.eu/static/favicon.svg" alt="Galaxy Logo" width="180" bg="gray"/>  
+  <a class="text-xs text-gray-400" target="_blank" href="https://usegalaxy.eu/">https://usegalaxy.eu/</a>
+</div>
+
+
+- Web-based, GUI platform for workflow design and execution
+- Visual drag-and-drop workflow builder
+- Integrates with CWL, Nextflow, Snakemake
+
+- https://galaxyproject.org
+- EU: https://usegalaxy.eu
+- Plants: https://plants.usegalaxy.eu
+
+---
+layout: default
+---
+
+## Galaxy Workflow Editor
+
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/71326f568eebe51c90896ef418ca8632fa2bae36/screenshots/galaxy-wfl-screenshot.png" alt="Galaxy Workflow Editor Screenshot" width="1200"/>
+
+https://usegalaxy.eu/workflows/list_published
+
+<!-- TODO
+
+## Galaxy
+
+ - example workflow figure
+  - and corresponding .ga file
+ -->
