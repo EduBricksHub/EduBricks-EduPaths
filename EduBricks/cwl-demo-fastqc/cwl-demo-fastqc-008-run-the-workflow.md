@@ -11,9 +11,9 @@ You can provide arguments via another file:
 ```yaml [run.yml]
 reads:
   - class: File
-    path: ../../assays/rnaseq/dataset/blau1_CGATGT_L005_R1_002.fastq.gz
+    path: assays/rnaseq/dataset/sample1.fastq.gz
   - class: File
-    path: ../../assays/rnaseq/dataset/blau2_TGACCA_L005_R1_002.fastq.gz
+    path: assays/rnaseq/dataset/sample2.fastq.gz
 ```
 
 ```yaml [workflow.cwl] {11-13}

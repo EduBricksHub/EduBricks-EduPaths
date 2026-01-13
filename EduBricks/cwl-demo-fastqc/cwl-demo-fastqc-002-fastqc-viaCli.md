@@ -13,7 +13,7 @@ fastqc --help
 
 ::right::
 
-`fastqc assays/rnaseq/dataset/blau1_CGATGT_L005_R1_002.fastq.gz`
+`fastqc assays/rnaseq/dataset/sample1.fastq.gz`
 
 ```mermaid
 flowchart LR
