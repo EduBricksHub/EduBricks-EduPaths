@@ -6,11 +6,11 @@ This repository holds
 
 ## Idea
 
-For the overall idea, please visit https://github.com/EduBricksHub/EduSlides
+For the overall idea, please checkout "Brilhaus, D., Haugwitz, J.-M., Helbig, K., Uebachs, M., Schmale Rodrigues, C., & Mühlhaus, T. (2025). EduBricks – Ein Konzept für modulares und skalierbares Lehrmaterial. Zenodo. https://doi.org/10.5281/zenodo.17850103" or visit the example at https://github.com/EduBricksHub/EduSlides.
 
 ## Usage
 
-This repository is used as git submodule in https://github.com/EduBricksHub/EduSlides
+This repository is used as git submodule to https://github.com/EduBricksHub/EduSlides.
 
 ## License
 
