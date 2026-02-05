@@ -36,12 +36,18 @@ src: '../EduBricks/007-modular-separation-of-experimental-processes.md'
 src: '../EduBricks/008-modular-separation-of-experimental-processes.md'
 ---
 
----
-src: '../EduBricks/009-applying-standard-procedures-to-sample-record.md'
----
+<!-- 
+  ---
+  src: '../EduBricks/009-applying-standard-procedures-to-sample-record.md'
+  ---
+  
+  ---
+  src: '../EduBricks/010-realization-of-lab-specific-metadata-with-templates.md'
+  ---
+-->
 
 ---
-src: '../EduBricks/010-realization-of-lab-specific-metadata-with-templates.md'
+src: '../EduBricks/018-templates-sops.md'
 ---
 
 ---
