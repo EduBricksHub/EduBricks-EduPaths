@@ -1,7 +1,5 @@
 ---
-author: 
 layout: two-columns
-date: 
 ---
 
 ## Two sides of the same coin
@@ -68,4 +66,5 @@ date:
   **"User View": ARC Scaffold and metadata tables**
 
   <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/71326f568eebe51c90896ef418ca8632fa2bae36/screenshots/two-sides-01-user.png" style="padding-bottom:20px"/>
+  
   <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/71326f568eebe51c90896ef418ca8632fa2bae36/screenshots/two-sides-02-user.png" />

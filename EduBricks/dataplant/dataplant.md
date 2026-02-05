@@ -10,7 +10,7 @@ layout: default
 
 # DataPLANT – *NFDI4plants*
 
-<img src="/images-tm/dataplant/dataplant-landing-page.png" style='display: block; width:70%; margin: auto'/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/dataplant/dataplant-landing-page.png" style='display: block; width:70%; margin: auto'/>
 
 <span class="flex flex-row justify-center">
   

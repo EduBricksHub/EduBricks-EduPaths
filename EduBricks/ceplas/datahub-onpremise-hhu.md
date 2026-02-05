@@ -9,7 +9,7 @@ layout: default
 
 ## HHU-DataHUB – On-premise DataHUB node
 
-<img src="/images-tm/ceplas/hhu-datahub.drawio.svg"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/ceplas/hhu-datahub.drawio.svg"/>
 
 
 <Admonition title= "Under Development" type="caution" style="width:50%">

@@ -5,4 +5,5 @@ layout: center
 
 ## Building exporters to support versatile publication outlets
 
-![](../images-tm/data-publications/publication-outlets.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/data-publications/publication-outlets.svg)
+

@@ -11,7 +11,7 @@ layout: default
 
 ## NFDI – Nationale Forschungsdaten Infrastruktur
 
-<img src="/images-tm/nfdi/nfdi.drawio.svg" style='display: block; width:80%; margin: auto'/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/nfdi/nfdi.drawio.svg" style='display: block; width:80%; margin: auto'/>
 
 ---
 layout: default
@@ -19,7 +19,7 @@ layout: default
 
 ## NFDI – A community-targeted approach for RDM
 
-<img src="/images-tm/nfdi/nfdi-consortia.drawio.svg" style='display: block; width:70%; margin: auto'/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/nfdi/nfdi-consortia.drawio.svg" style='display: block; width:70%; margin: auto'/>
 
 ---
 layout: default

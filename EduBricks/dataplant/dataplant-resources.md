@@ -43,13 +43,13 @@ layout: four-panels
 
 - GitHub: https://github.com/nfdi4plants 
 
+<!-- 
 
-
-<img src='/images-tm/dataplant/DataPLANT_logo_bg_transparent.svg'
+<img src='https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/dataplant/DataPLANT_logo_bg_transparent.svg'
     style="
     position: absolute;
     top: 40px;
     right: 140px;
     width:200px;"
 />
-  
+   -->
