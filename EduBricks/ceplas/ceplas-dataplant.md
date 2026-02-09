@@ -25,4 +25,6 @@ layout: default
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+
+

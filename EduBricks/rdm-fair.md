@@ -45,4 +45,4 @@ layout: two-cols
 
 ::right::
 
-![](/images-tm/user-challenges-002.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/dataplant/user-challenges-002.svg)
