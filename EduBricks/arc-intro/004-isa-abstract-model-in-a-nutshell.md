@@ -6,4 +6,5 @@ date:
 
 ## ISA abstract model in a nutshell
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/71326f568eebe51c90896ef418ca8632fa2bae36/figures/arc-design/standards-isa-in-a-nutshell.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/bf135f84210662014da9f17c0ef110f224b88a6c/figures/arc-design/standards-isa-in-a-nutshell.svg" />
+
