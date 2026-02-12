@@ -2,7 +2,7 @@
 title: workflows-cwl-03-jobYaml
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Bring back the data to the workflow

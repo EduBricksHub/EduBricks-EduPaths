@@ -2,7 +2,7 @@
 title: workflows-cwl-02-multiStep
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Build a multi-step workflow

@@ -2,7 +2,7 @@
 title: workflows-cwl-14-SciWin
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 

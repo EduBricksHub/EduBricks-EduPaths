@@ -14,7 +14,7 @@ date: 2025-10-14
 - ...
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Conda
@@ -54,7 +54,7 @@ conda install cwltool
 ```
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Avoid using Anaconda and the "default" channel
@@ -79,7 +79,7 @@ channels:
 ```
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 <div class="absolute top-20 left-250">
@@ -181,7 +181,7 @@ docker run --rm samtools:1.20 --version
 
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Using a devcontainer (in VS Code)

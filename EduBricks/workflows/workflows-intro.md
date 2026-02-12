@@ -80,7 +80,7 @@ layout: default
 - ...
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## What are computational workflows?

@@ -2,7 +2,7 @@
 title: workflows-cwl-05-toolDependencies-conda
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Example: CWL + Conda (beta)

@@ -2,7 +2,7 @@
 title: workflows-cwl-07-toilRunner
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Example: Toil-Runner translates your CWL to HPC

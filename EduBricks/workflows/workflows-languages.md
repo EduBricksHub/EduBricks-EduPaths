@@ -3,7 +3,7 @@ title: workflows-languages
 author: Dominik Brilhaus
 license: CC-BY 4.0
 date: 2025-10-14
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Workflow Languages

@@ -2,7 +2,7 @@
 title: workflows-cwl-12-fileTypes
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Specify file types for inputs and outputs

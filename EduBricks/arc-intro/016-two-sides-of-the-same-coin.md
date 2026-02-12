@@ -1,5 +1,5 @@
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Two sides of the same coin

@@ -2,7 +2,7 @@
 title: workflows-cwl-01-wrapScript
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## CWL-wrap your script

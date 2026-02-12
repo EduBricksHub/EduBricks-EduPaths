@@ -2,7 +2,7 @@
 title: Workflows 5S methodology
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## The 5S methodology for workplace development

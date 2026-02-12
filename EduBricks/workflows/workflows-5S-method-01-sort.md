@@ -15,7 +15,7 @@ layout: default
   - Clarity around inputs and outputs
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## **Sort** – Break into reusable steps
@@ -56,7 +56,7 @@ plt.savefig("heatmap.png", dpi=150)
 9. ...
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Step by step

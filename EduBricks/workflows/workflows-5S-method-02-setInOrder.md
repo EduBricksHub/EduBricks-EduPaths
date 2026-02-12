@@ -14,7 +14,7 @@ default: layout
   - Smoother integration into larger workflows or pipelines
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Refactor the script

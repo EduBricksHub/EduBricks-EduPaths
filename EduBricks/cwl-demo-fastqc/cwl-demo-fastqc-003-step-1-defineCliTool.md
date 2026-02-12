@@ -1,5 +1,5 @@
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Step 1: Define CLI tool as CWL CommandLineTool

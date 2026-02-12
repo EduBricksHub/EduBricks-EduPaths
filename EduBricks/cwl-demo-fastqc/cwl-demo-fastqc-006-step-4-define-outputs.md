@@ -1,5 +1,5 @@
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Step 4: Define outputs

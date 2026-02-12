@@ -2,7 +2,7 @@
 title: workflows-5S-method-06-summary
 author: Dominik Brilhaus
 license: CC-BY 4.0
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Summary: 5S for Computational Workflows

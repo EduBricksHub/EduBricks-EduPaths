@@ -1,5 +1,5 @@
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 # Step 2: Add a docker container
@@ -24,7 +24,7 @@ outputs: []
 
 ::right::
 
-<div class="scale-75 origin-top">
+<div class="scale-60 origin-top">
 
 ```mermaid
 flowchart TD
